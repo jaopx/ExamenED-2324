@@ -17,3 +17,7 @@ footer {
     padding: 1em;
     text-align: center;
 }
+table{
+    border: 1px;
+    border: black;
+}
